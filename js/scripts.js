@@ -10,3 +10,4 @@ function getTriangleArea(a, h) {
     } 
 }
 console.log(getTriangleArea(10, 6));
+//test comment
